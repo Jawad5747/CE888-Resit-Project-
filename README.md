@@ -2,7 +2,7 @@
 
 **Lungs CT-based Classification for COVID19-vs-Non COVID19**
 
-The code is 'Project_Resit_final.ipynb' python file, in which each line is commented.
+In code folder include the python file 'Project_Resit_final.ipynb', in which each line is commented.
 
 *Data Set*
 
